@@ -11,7 +11,7 @@ Using p5js and glsl I created a shader that rounds the brightness of each pixel,
   - **Any other key** → return to randomized palettes
 
 ## Links
-- View project: **link goes here**
+- View project: https://editor.p5js.org/GeffenGilbert/full/FUiZ5TXNy
 
 # Features
 ## Quantized Color Mapping
